@@ -3,7 +3,10 @@
 Current key support:
 ```
 iPod5,1
+6.0 (10A406)
 6.1.3 (10B329)
+7.0.4 (11B554a)
+7.0.6 (11B651)
 7.1.2 (11D257)
 ```
 Planning to add:
